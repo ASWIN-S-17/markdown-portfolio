@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Welcome to btech*
+_Welcome to cse_
+
+**Welcome to java**
+__hello world__
+
+_You **Hello** combine them_
